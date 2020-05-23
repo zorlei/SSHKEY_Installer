@@ -7,7 +7,7 @@ yum install curl -y
 echo '============================
       SSH Key Installer
 	 V1.0 Alpha
-	Author:Kirito
+	Author:zorlei
 ============================'
 cd ~
 mkdir .ssh
